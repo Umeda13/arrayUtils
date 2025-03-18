@@ -1,5 +1,5 @@
 {
-  "name": "arrayutils",
+  "name": "arrayUtils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test-coverage": "NODE_OPTIONS=--experimental-vm-modules jest --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "Umeda",
   "license": "ISC",
   "devDependencies": {
     "@jest/globals": "^29.7.0",

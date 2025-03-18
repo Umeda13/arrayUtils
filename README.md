@@ -1,5 +1,9 @@
 # Property-based testing
 
+# Start 
+```console
+  npm i
+```
 ## Run tests
 
 ```console
